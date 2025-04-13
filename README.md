@@ -1,7 +1,7 @@
 [![Publications][pub-shield]][pub-url]
 [![Projects][proj-shield]][proj-url]
-[![Lines][lines-shield]][lines-url]
-[![Application Projects][apps-shield]][apps-url]
+[![Applied AI Methods][aai-shield]][aai-url]
+[![Ongoing Research Projects][ongp-shield]][ongp-url]
 [![All Programs Pass Tests][appt-shield]][appt-url]
 [![All Applications Contains Documentations][aacd-shield]][aacd-url]
 [![Actively Updating][au-shield]][au-url]
@@ -117,14 +117,14 @@ README.md
   </a>
 </p>
 
-[pub-shield]: https://img.shields.io/badge/Publications->3-blue
+[pub-shield]: https://img.shields.io/badge/Publications-3-blue
 [pub-url]: https://scholar.google.com/citations?hl=en&user=o9k4mBkAAAAJ
-[proj-shield]: https://img.shields.io/badge/Research_Projects->3-green
+[proj-shield]: https://img.shields.io/badge/Research_Projects-3-green
 [proj-url]: https://github.com/daijingz/Research_Projects
-[lines-shield]: https://img.shields.io/badge/Total_Lines->9300-cyan
-[lines-url]: https://github.com/daijingz/Algorithm_Implementations
-[apps-shield]: https://img.shields.io/badge/Application_Projects-4-yellow
-[apps-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Applications
+[aai-shield]: https://img.shields.io/badge/Applied_AI_Methods->22-cyan
+[aai-url]: https://www.datacamp.com/
+[ongp-shield]: https://img.shields.io/badge/Ongoing_Research_Projects-2-yellow
+[ongp-url]: https://scholar.google.com/citations?hl=en&user=o9k4mBkAAAAJ
 [appt-shield]: https://img.shields.io/badge/All_Programs_Verified_By_Tests-purple
 [appt-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Testing
 [aacd-shield]: https://img.shields.io/badge/All_Applications_Contain_Documentations-orange
