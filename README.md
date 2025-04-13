@@ -3,7 +3,7 @@
 [![Applied AI Methods][aai-shield]][aai-url]
 [![Ongoing Research Projects][ongp-shield]][ongp-url]
 [![All Programs Pass Tests][appt-shield]][appt-url]
-[![All Applications Contains Documentations][aacd-shield]][aacd-url]
+[![All Programs Contains Documentations][aacd-shield]][aacd-url]
 [![Actively Updating][au-shield]][au-url]
 
 <!-- PROJECT LOGO -->
@@ -127,7 +127,7 @@ README.md
 [ongp-url]: https://scholar.google.com/citations?hl=en&user=o9k4mBkAAAAJ
 [appt-shield]: https://img.shields.io/badge/All_Programs_Verified_By_Tests-purple
 [appt-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Testing
-[aacd-shield]: https://img.shields.io/badge/All_Applications_Contain_Documentations-orange
+[aacd-shield]: https://img.shields.io/badge/All_Programs_Contain_Documentations-orange
 [aacd-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Documentation
 [au-shield]: https://img.shields.io/badge/Actively_Updating-darkred
 [au-url]: https://www.linkedin.com/in/jingze-dai/
