@@ -48,7 +48,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![alt text](Structure.jpeg)
+![Project Structure](Structure.jpeg)
 
 **This project family includes those parts**
 
