@@ -26,6 +26,8 @@
 [![Latex][latex-shield]][latex-url]
 
 [![Pandas][pandas-shield]][pandas-url]
+[![Scikit-learn][scil-shield]][scil-url]
+[![NumPy][numpy-shield]][numpy-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -129,3 +131,7 @@ README.md
 
 [pandas-shield]: https://img.shields.io/badge/Pandas-darkblue
 [pandas-url]: https://pandas.pydata.org/
+[scil-shield]: https://img.shields.io/badge/Scikitlearn-orange
+[scil-url]: https://scikit-learn.org/stable/
+[numpy-shield]: https://img.shields.io/badge/NumPy-skyblue
+[numpy-url]: https://numpy.org/
