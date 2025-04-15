@@ -4,6 +4,7 @@
 [![Ongoing Research Projects][ongp-shield]][ongp-url]
 [![All Programs Pass Tests][appt-shield]][appt-url]
 [![All Programs Contains Documentations][aacd-shield]][aacd-url]
+[![Each Project Submit A Publication][epsp-shield]][epsp-url]
 [![Actively Updating][au-shield]][au-url]
 
 <!-- PROJECT LOGO -->
@@ -28,6 +29,8 @@
 [![Pandas][pandas-shield]][pandas-url]
 [![Scikit-learn][scil-shield]][scil-url]
 [![NumPy][numpy-shield]][numpy-url]
+[![SciPy][scipy-shield]][scipy-url]
+[![TensorFlow][ten-shield]][ten-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -118,6 +121,8 @@ README.md
 [appt-url]: https://github.com/daijingz/Research_Projects
 [aacd-shield]: https://img.shields.io/badge/All_Programs_Contain_Documentations-orange
 [aacd-url]: https://github.com/daijingz/Research_Projects
+[epsp-shield]: https://img.shields.io/badge/Each_Project_Submit_A_Publication-lightgreen
+[epsp-url]: https://github.com/daijingz/Research_Projects
 [au-shield]: https://img.shields.io/badge/Actively_Updating-darkred
 [au-url]: https://www.linkedin.com/in/jingze-dai/
 
@@ -132,3 +137,7 @@ README.md
 [scil-url]: https://scikit-learn.org/stable/
 [numpy-shield]: https://img.shields.io/badge/NumPy-skyblue
 [numpy-url]: https://numpy.org/
+[scipy-shield]: https://img.shields.io/badge/SciPy-cyan
+[scipy-url]: https://scipy.org/
+[ten-shield]: https://img.shields.io/badge/TensorFlow-yellow
+[ten-url]: https://www.tensorflow.org/
