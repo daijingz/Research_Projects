@@ -48,11 +48,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Starting in January 2024, Jingze start research contributions with 
+
+
+The diagram below shows all 
 ![Project Structure](Structure.jpeg)
 
 **This project family includes those parts**
 
-:open_mouth: **Algorithm implementations** (How do algorithm perform in the different programming languages?)
+:open_mouth: **Algorithm implementations** (How do algorithms perform in the different programming languages?)
 
 :smile: **Algorithm-based Application programs** (Apply algorithms to application programs)
 
