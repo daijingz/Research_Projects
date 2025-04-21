@@ -48,27 +48,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Starting in January 2024, Jingze start research contributions with 
+Starting January 2024, Jingze began research contributions by joining research group projects, with formal publications. This repository stores all content files of a research project.
 
 
-The diagram below shows all 
+The diagram below shows all mandatory processes of research projects:
 ![Project Structure](Structure.jpeg)
 
-**This project family includes those parts**
-
-:open_mouth: **Algorithm implementations** (How do algorithms perform in the different programming languages?)
-
-:smile: **Algorithm-based Application programs** (Apply algorithms to application programs)
-
-:grimacing: **Documentations** (files that explain content, mainly **_.ipynb_** and **_.md_** files)
-
-:blush: **Mathematical proofs** (algorithms' theory proofs, mostly based on selected textbooks)
-
-:smiley: **Testing** (Testing that checks whether each program has good, expected performance)
-
-Of course, no one template will serve all projects since your needs may be different. So, I'll be adding more shortly. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-Every repository has the `README.md` file to explain briefly what this repository does.
+Each project has a publication at a conference or an academic journal, and each repository's `README.md` provides its link.
 
 <p align="right">
   <a href="#top">
@@ -92,17 +78,8 @@ Personal Portfolio - [https://sites.google.com/view/jingzedaiinfo/personal-info]
 
 ## Folder Structures and File Contents
 
-**Applications**
-  - Application projects applying included algorithms
-
-**Documentation**
-  - Documentation showing 
-
-**Module X: Y**
-  - groups of algorithms separated by their solved problems Y
-
-**Testing**
-  - Unit testing files
+**{...}** 
+  - An independent research project. (Every repository is)
 
 README.md
   - This file
