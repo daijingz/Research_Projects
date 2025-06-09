@@ -45,7 +45,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## <img src="https://img.icons8.com/ios/20/000000/info--v1.png" width="20"/> About The Project
+
 Starting January 2024, Jingze began research contributions by joining research group projects, with formal publications. This repository stores all content files of a research project.
 
 
@@ -60,7 +61,7 @@ Each project has a publication at a conference or an academic journal, and each 
   </a>
 </p>
 
-## Contact
+## <img src="https://img.icons8.com/ios/50/000000/name.png" width="20" alt="contact icon"/> Contact
 
 **Personal Email Address** - david1147062956@gmail.com
 
@@ -74,7 +75,7 @@ Personal Portfolio - [https://sites.google.com/view/jingzedaiinfo/personal-info]
   </a>
 </p>
 
-## Folder Structures and File Contents
+## <img src="https://img.icons8.com/ios/50/000000/document--v1.png" width="20" alt="file icon"/> Folder Structures and File Contents
 
 **{...}** 
   - An independent research project. (Every repository is)
