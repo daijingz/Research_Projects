@@ -56,7 +56,7 @@ Starting January 2024, Jingze began research contributions by joining research g
 The diagram below shows all mandatory processes of research projects:
 ![Project Structure](Structure.jpeg)
 
-Each project has a publication at a conference or an academic journal, and each repository's `README.md` provides its link.
+Each project has a publication at a conference or an academic journal, and each repository's `README.md` provides its publication link and its published conferences/journals.
 
 <p align="right">
   <a href="#top">
