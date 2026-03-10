@@ -58,6 +58,8 @@ The diagram below shows all mandatory processes of research projects:
 
 Each project has a publication at a conference or an academic journal, and each repository's `README.md` provides its publication link and its published conferences/journals.
 
+All submitted but not yet published papers are available at: https://github.com/daijingz/Research_Projects/tree/main/Submitted_Papers
+
 <p align="right">
   <a href="#top">
     <img alt="Back To Top" src="https://img.shields.io/badge/Back_To_Top-black">
